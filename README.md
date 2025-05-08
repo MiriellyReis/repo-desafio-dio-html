@@ -1,4 +1,4 @@
-# Projeto HTML Puro
+# Desafio Dio HTML Puro
 
 Este projeto consiste em uma página web desenvolvida apenas com HTML5 puro.
 
